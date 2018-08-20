@@ -1,0 +1,6 @@
+{{#each model as |item|}}
+    <div class="col-md-4 well">
+      <p>One {{item.color}} {{item.size}} for {{item.price}}</p>
+    </div>
+{{/each}}
+{{outlet}}
