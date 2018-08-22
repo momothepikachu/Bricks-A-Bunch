@@ -1,6 +1,8 @@
-# Quiz - Actions
-
-Starter code for [Udacity](https://www.udacity.com)'s [Front End Frameworks course](https://www.udacity.com/course/front-end-frameworks--ud894).
+# Udacity Front-End Framwork--Ember.js Quiz 
+ - made a simple website with Home, Stores and Cart tabs
+ - added a shopping-cart feature in Bricks-A-Bunch store that can add bricks to the Cart
+ 
+ Starter code from [Udacity](https://www.udacity.com)'s [Front End Frameworks course](https://www.udacity.com/course/front-end-frameworks--ud894).
 
 ## Prerequisites
 
